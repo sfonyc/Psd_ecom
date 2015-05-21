@@ -1,0 +1,123 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+   
+#searchInput {
+   width: 200px;
+}
+
+.Navbar-brand {
+
+   padding: 13px 15px;
+}
+   
+   
+/* --------------------------------------
+   Carousel
+   -------------------------------------- */
+
+
+
+/* --------------------------------------
+   Global Styles
+   -------------------------------------- */
+.thumbnails {
+
+   margin: 20px 0;
+
+}
+
+.thumbnail {
+   position: relative;
+}
+
+.thumbnail h3 {
+   font-size: 16px;
+   margin: 0 0 10px;
+   line-height: 20px;
+}
+
+.thumbnail .price {
+   font-size: 22px;
+   position: absolute;
+   top: -0px;
+
+}
+
+
+
+
+
+/* --------------------------------------
+   Media Queries
+   -------------------------------------- */
+
+/* Portrait & landscape phone */
+@media (max-width: 480px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 768px) {
+	
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	
+}
+
+
+#signup{
+   float: right;
+}
+
+footer{
+   border-top: 1px solid dimgrey;
+   background: #333;
+   color: #eee;
+   font-size: 11px;
+   padding: 20px;
+}
+#footer1 > span {
+   padding: 0.8em 0em 0.8em 0em;
+
+}
+
+ul.unstyled {
+
+   list-style: none;
+
+}
+
+.glyphicon-heart {
+
+   color:red;
+}
+
+
+

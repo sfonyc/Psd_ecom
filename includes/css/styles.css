@@ -57,6 +57,12 @@ Notes:	 Hand coded for Udemy.com
    overflow: hidden;
 }
 
+.opener {
+   position: relative;
+   height: 600px;
+   overflow: hidden;
+}
+
 .thumbnail h3 {
    font-size: 16px;
    margin: 0 0 10px;

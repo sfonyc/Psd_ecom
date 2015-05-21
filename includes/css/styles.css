@@ -53,6 +53,8 @@ Notes:	 Hand coded for Udemy.com
 
 .thumbnail {
    position: relative;
+   height: 300px;
+   overflow: hidden;
 }
 
 .thumbnail h3 {
@@ -61,7 +63,7 @@ Notes:	 Hand coded for Udemy.com
    line-height: 20px;
 }
 
-.thumbnail .price {
+.thumbnail.price {
    font-size: 22px;
    position: absolute;
    top: -0px;
